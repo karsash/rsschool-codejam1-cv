@@ -51,55 +51,13 @@ a:hover {
 	width:969px;
 	margin:0 auto;
 	margin-top:30px;
-	margin-bottom:20px;
-}
-
-.wrapper-top {
-	width:969px;
-	margin:0 auto;
-	background-repeat:no-repeat;
-}
-
-.wrapper-mid {
-	width:969px;
-	margin:0 auto;
-	background-repeat: repeat-y;
-	padding-bottom:20px;
-}
-
-.wrapper-bottom {
-	width:969px;
-	/* height:22px; */
-	padding:0;
-	margin:0 auto;
-	background-repeat:no-repeat;
+	margin-bottom:30px;
 }
 
 #paper {
 	width:828px;
 	margin:0 auto;
 	background-color: #fff;
-}
-
-.paper-top {
-	width:828px;
-	margin:0 auto;
-	background-repeat:no-repeat;
-}
-
-#paper-mid {
-	width:828px;
-	margin:0 auto;
-	background-repeat:repeat-y;
-	display:block;
-	padding:0;
-	overflow: hidden;
-}
-
-.paper-bottom {
-	width:828px;
-	margin:0 auto;
-	background-repeat:no-repeat;
 }
 
 .entry {
@@ -135,12 +93,6 @@ p {
 	width:500px;
 	margin-left:40px;
 	float:right;	
-}
-
-p img {
-	float:right;
-	margin-left:20px;
-	padding-left:10px;
 }
 
 div.content {
@@ -199,7 +151,6 @@ ul.skills {
 	margin-top:-6px;
 	margin-bottom:20px;
 	list-style-type: none;
-	
 }
 
 ul.skills li {
@@ -223,7 +174,6 @@ img.photo {
 	padding-bottom:36px;
 	margin-left:50px;
 	float:left;
-	
 }
 
 .self {
